@@ -1,0 +1,8 @@
+altair
+pandas
+streamlit
+polars
+pyarrow
+plotly
+scipy
+statsmodels
