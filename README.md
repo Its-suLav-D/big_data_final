@@ -1,6 +1,6 @@
 # Challenge General Information
 
-Repo URL: https://github.com/Its-suLav-D/app_challenge_membership_fa23
+Repo URL: https://github.com/Its-suLav-D/big_data_final/tree/main
 
 ## APP Challenge 
 
